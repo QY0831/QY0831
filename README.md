@@ -45,4 +45,4 @@ Backend developer currently building cloud-native systems on AWS. Previously foc
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/chenqinyu/)
+ [LinkedIn](https://www.linkedin.com/in/chenqinyu/) · [LeetCode](https://leetcode.cn/u/qinyu-c/)
