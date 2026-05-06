@@ -41,15 +41,10 @@ Backend developer currently building cloud-native systems on AWS. Previously foc
 
 ---
 
-### GitHub Stats
+### Profile Views
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QY0831&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=708090" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QY0831&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=708090" alt="Top Langs" height="170">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=QY0831&theme=transparent&hide_border=true&current_streak_color=58A6FF&ring_color=58A6FF&side_labels=true" alt="Streak Stats" height="170">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=QY0831.QY0831&color=58A6FF" alt="Profile Views">
 </p>
 
 ---
