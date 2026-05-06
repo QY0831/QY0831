@@ -55,3 +55,7 @@ Backend developer currently building cloud-native systems on AWS. Previously foc
 ---
 
 > _The best code is code you don't have to write._
+
+---
+
+🔗 [LinkedIn](https://www.linkedin.com/in/chenqinyu/)
