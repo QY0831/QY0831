@@ -41,14 +41,6 @@ Backend developer currently building cloud-native systems on AWS. Previously foc
 
 ---
 
-### Profile Views
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=QY0831.QY0831&color=58A6FF" alt="Profile Views">
-</p>
-
----
-
 > _Make it work. Make it right. Make it fast._ — Kent Beck
 
 ---
